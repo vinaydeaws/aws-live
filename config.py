@@ -1,6 +1,6 @@
-customhost = "employedb.cy1nxdxvnc25.ap-south-1.rds.amazonaws.com"
+customhost = "employed.cy1nxdxvnc25.ap-south-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "database"
-customdb = "employedb"
+customdb = "employed"
 custombucket = "employebalti"
 customregion = "ap-south-1"
